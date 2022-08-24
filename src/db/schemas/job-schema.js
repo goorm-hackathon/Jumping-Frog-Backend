@@ -17,6 +17,10 @@ const JobSchema = new Schema(
             type: String,
             required: true,
         },
+        isSent: {
+            type: Boolean,
+            default: false,
+        },
     },
     {
         collection: 'jobs',
