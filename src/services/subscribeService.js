@@ -1,24 +1,39 @@
-// subscriber model logic
-// import subscriber model
+import { subscriberModel } from "../db/models/subscriber-model";
+class SubscriptionService {
+    constructor(subscriberModel) {
+        this.subModel  = subscriberModel;
+    }
 
-// 1. 구독 신청
+    // 1. 구독 신청
+    async subscribe(subscribeInfo) {
+        const result = await this.subModel.findSubscriber(email);
+        // a. 이미 구독 중인 경우
+        if (result) {
+            const error = new Error('이미 구독중인 이메일입니다');
+            error.name = 'NotAcceptable';
+            throw error;
+        }
+        // b. 구독 중이 아닌 경우
+        const newSubscriber = await this.subModel.subscribe(subscribeInfo);
+        return newSubscriber;
+    }
 
-// Client에서 요청으로 유저 정보를 받아옴
-// DB에 유저가 존재하는지 확인
-// a. 존재하는 경우
-// 404 NotFound 에러 메시지와 함께 "이미 구독 중입니다."
+    // 2. 구독 취소
+    async cancleSubscription(email) {
+        const isEmailExist = await this.subModel.findSubscriber(email);
+        // a. 이미 구독 중인 경우
+        if (!isEmailExist) {
+            const error = new Error('구독 중인 계정이 아닙니다');
+            error.name = 'NotAcceptable';
+            throw error;
+        }
+        // b. 구독 중이 아닌 경우
+        const result = await this.subModel.cancleSubscription(email);
+        return result;
+    }
+}
 
-// b. 존재하지 않는 경우
-// 구독자 정보를 DB에 입력
+export const subscriptionService = new SubscriptionService(subscriberModel);
 
-
-// 2. 구독 취소
-// Client에서 구독 취소 요청을 받아 옴
-// DB에 유저가 존재하는지 확인
-// a. 존재하는 경우
-// 받을 시 DB에서 유저 정보 삭제
-
-// b. 존재하지 않는 경우
-// 404 NotFound 에러 메시지와 함께 "존재하지 않는 유저입니다."
 
 
