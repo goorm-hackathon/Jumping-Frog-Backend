@@ -2,7 +2,7 @@ import { Job } from '..';
 export class JobModel {
 // 1. 직업 정보 삽입 및 업데이트
     async insertJobs(job){
-        const result = Job.create(job);
+        const result = await Job.create(job);
         return result;
     };
     
