@@ -1,16 +1,23 @@
-import { JobSchema } from "../schemas/index";
+import { Job } from '..';
 export class JobModel {
-// 1. 직업 정보 삽입
-    async insertJobs(){
-
+// 1. 직업 정보 삽입 및 업데이트
+    async insertJobs(job){
+        const result = Job.create(job);
+        return result;
     };
-// 2. 직업 정보 업데이트
-    async updateJobs() {
-
-    }
-// 3. 직업 정보 조회
+    
+// 2. 직업 정보 조회
     async findJob(){
-
+        const jobList = await Job.find({});
+        const result = '';
+        for(let i = 0; i < jobList.length(); i++) {
+            if (jobList[i].isSent == false) {
+                result = jobList[i];
+                break;
+            } 
+        }
+        await Job.findOneAndUpdate({jobCode: result.jobCode}, {isSent: true})
+        return result;
     }
 }
 
