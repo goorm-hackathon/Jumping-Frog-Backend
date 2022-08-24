@@ -1,23 +1,19 @@
 // subscriber model logic
-
+import { SubscriberSchema } from "../schemas/index";
+export class SubscriberModel {
 // 1. 구독 신청
+    async subscribe(){
 
-// Client에서 요청으로 유저 정보를 받아옴
-// DB에 유저가 존재하는지 확인
-// a. 존재하는 경우
-// 404 NotFound 에러 메시지와 함께 "이미 구독 중입니다."
-
-// b. 존재하지 않는 경우
-// 구독자 정보를 DB에 입력
-
-
+    };
 // 2. 구독 취소
-// Client에서 구독 취소 요청을 받아 옴
-// DB에 유저가 존재하는지 확인
-// a. 존재하는 경우
-// 받을 시 DB에서 유저 정보 삭제
+    async cancelSubscription() {
 
-// b. 존재하지 않는 경우
-// 404 NotFound 에러 메시지와 함께 "존재하지 않는 유저입니다."
+    }
+// 3. 구독 조회
+    async findSubscriber(){
 
+    }
+}
+
+export const subscriberModel = new SubscriberModel();
 
