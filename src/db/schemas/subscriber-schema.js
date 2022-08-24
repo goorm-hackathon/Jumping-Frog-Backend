@@ -10,7 +10,7 @@ const SubscriberSchema = new Schema(
             required: true,
         },
         age: {
-            type: Number,
+            type: String,
             required: true,
         },
         gender: {
