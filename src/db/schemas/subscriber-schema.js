@@ -43,7 +43,7 @@ const SubscriberSchema = new Schema(
         ],
     },
     {
-        collection: 'jobs',
+        collection: 'subscribers',
         timestamps: true,
     },
 );
