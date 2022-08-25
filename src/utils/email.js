@@ -41,7 +41,7 @@ class Nodemailer{
           <img src="https://ifh.cc/g/b4Shda.png" alt="">
         </div>
         <div class="emailTitle" style="text-align: center;color: #f69183;">
-          <p>10대 제주도를 위한 커리어 서비스</p>
+          <p>제주도 10대를 위한 커리어 서비스</p>
           <p>성장 뉴스레터 서비스</p>
         </div>
         <div class="dividerContainer" style="text-align: center;margin-top: 109px;margin-bottom: 26px;">
