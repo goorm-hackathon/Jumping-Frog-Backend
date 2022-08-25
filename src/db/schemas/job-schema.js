@@ -18,6 +18,14 @@ const JobSchema = new Schema(
             type: String,
             required: true,
         },
+        imageUrl: {
+            type: String,
+            required: true
+        },
+        jobLink: {
+            type: String,
+            required: true
+        },
         isSent: {
             type: Boolean,
             default: false,

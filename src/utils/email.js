@@ -23,7 +23,7 @@ class Nodemailer{
 
         // send mail with defined transport object
         const subscriberList = await subscriptionService.getAllSubscribers();
-        let receivers = ''
+        let receivers = '';
         for (let i = 0; i < subscriberList.length; i++) {
           receivers += subscriberList[i].email;
           if (i == subscriberList.length - 1) {
@@ -32,7 +32,7 @@ class Nodemailer{
             receivers +=  ', '
           }
         }
-        
+        let content = jobService.findJob();
         const emailContent = `
         <div class="imgContainer" style="text-align: center;margin-bottom: 84px;">
         <img src="https://ifh.cc/g/Y3wx3A.png" alt="">
