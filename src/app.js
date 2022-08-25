@@ -10,7 +10,11 @@ const app = express();
 job.job();
 // jobService.insertJobs();
 
-app.use(cors());
+const corsOptions = {
+    origin : '*'
+}
+
+app.use(cors(corsOptions));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
