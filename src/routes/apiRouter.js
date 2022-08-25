@@ -7,7 +7,7 @@ import {
 } from './api/jobRouter.js';
 
 const apiRouter = Router();
-apiRouter.use('/job', jobRouter);
+apiRouter.use('/jobs', jobRouter);
 apiRouter.use('/subscribe', subscriberRouter);
 
 export { apiRouter };
