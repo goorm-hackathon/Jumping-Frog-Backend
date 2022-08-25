@@ -41,7 +41,7 @@ class Nodemailer{
                             </div>
                             <div>${content.jobSummary}</div></body></head></html>`;*/
         
-         const emailFrame =  `<html lang="en">
+         const emailFrame =  `
             <head>
               <meta charset="UTF-8" />
               <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -86,7 +86,6 @@ class Nodemailer{
                 }
               </style>
             </head>
-            <body>
               <div class="imgContainer">
                 <img src="./jump.png" alt="" />
               </div>
@@ -129,9 +128,7 @@ class Nodemailer{
               <div class="videoContainer">
                 <button>좋았어요 😘</button>
                 <button>별로였어요 🤔</button>
-              </div>
-            </body>
-          </html>`
+              </div>`
               
         let info = await transporter.sendMail({
           from: 'hyunwoo619@naver.com', // sender address 
