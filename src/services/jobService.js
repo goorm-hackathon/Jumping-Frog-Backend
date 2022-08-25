@@ -25,6 +25,11 @@ class JobService {
         const result = await this.jobModel.findJob();
         return result;
     }
+    // 3. 직업 정보 전체 조회
+    async findAllJobs(){
+        const result = await this.jobModel.findAllJobs();
+        return result;
+    }
 }
 
 export const jobService = new JobService(jobModel);

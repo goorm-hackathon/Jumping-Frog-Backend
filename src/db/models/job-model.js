@@ -19,6 +19,11 @@ export class JobModel {
         await Job.findOneAndUpdate({jobName: result.jobName}, {isSent: true})
         return result;
     }
+// 3. 직업 정보 전체 조회
+    async findAllJobs(){
+        const jobList = await Job.find({});
+        return jobList;
+    }
 }
 
 export const jobModel = new JobModel();
