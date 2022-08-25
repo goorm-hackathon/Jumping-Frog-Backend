@@ -12,7 +12,7 @@ class Nodemailer{
         const pass = process.env.NODEMAILER_PASSWORD;
     
         let transporter = nodemailer.createTransport({
-            host: "smtp.gmail.com",
+            host: "smtp.naver.com",
             port: 465,
             secure: true, // true for 465, false for other ports
             auth: {
@@ -134,7 +134,7 @@ class Nodemailer{
           </html>`
               
         let info = await transporter.sendMail({
-          from: '"Jumping Frog" <jump.frog0826@gmail.com>', // sender address 
+          from: 'hyunwoo619@naver.com', // sender address 
           to: receivers, //"bar@example.com, baz@example.com", // list of receivers 
           subject: "Hello ✔", // Subject line
           text: 'hello world', //`${content.jobCode}, ${content.jobName}, ${content.jobVideo}, ${content.jobSummary}`, // plain text body
