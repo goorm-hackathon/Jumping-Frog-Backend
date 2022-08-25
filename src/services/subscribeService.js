@@ -6,7 +6,7 @@ class SubscriptionService {
 
     // 1. 구독 신청
     async subscribe(subscribeInfo) {
-        const result = await this.subModel.findSubscriber(email);
+        const result = await this.subModel.findSubscriber(subscribeInfo.email);
         // a. 이미 구독 중인 경우
         if (result) {
             const error = new Error('이미 구독중인 이메일입니다');
