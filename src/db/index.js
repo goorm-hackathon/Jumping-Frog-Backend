@@ -1,8 +1,8 @@
-import mongoose, { model } from 'mongoose';
-import {
-    JobSchema,
-    SubscriberSchema
-} from './schemas/index';
+import mongoose from 'mongoose';
+import pkg from 'mongoose';
+const { model } = pkg;
+import { JobSchema } from './schemas/job-schema.js';
+import { SubscriberSchema } from './schemas/subscriber-schema.js';
 
 const DB_URL = process.env.MONGODB_URL
 || 'MongoDB 서버 주소가 설정되지 않았습니다.\n./db/index.ts 파일을 확인해 주세요. \n.env 파일도 필요합니다.\n';

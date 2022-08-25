@@ -1,7 +1,7 @@
 import { Router } from 'express';
 import {
   subscriberRouter,
-} from './api/index';
+} from './api/subscriberRouter.js';
 
 const apiRouter = Router();
 
