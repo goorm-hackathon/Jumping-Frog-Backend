@@ -12,7 +12,7 @@ subscriberRouter.post('/', async (req, res, next) => {
         const info = req.body;
         const result = await subscriptionService.subscribe(info);
         res.status(201).json(result);
-    } catch {
+    } catch (error) {
         next(error);
     }
     
@@ -25,7 +25,7 @@ subscriberRouter.delete('/cancel', async(req, res, next) => {
         const email = req.params;
         const result = await subscriptionService.cancleSubscription(email);
         res.status(200).json(result);
-    } catch {
+    } catch (error) {
         next(error);
     }
 
