@@ -88,10 +88,10 @@ class Nodemailer{
             </head>
             <body>
               <div class="imgContainer">
-                <img src="./Group 244.png" alt="" />
+                <img src="./jump.png" alt="" />
               </div>
               <div class="logoContainer">
-                <img src="./Group 242 (2).png" alt="" />
+                <img src="./logo.png" alt="" />
               </div>
               <div class="emailTitle">
                 <p>10대 제주도를 위한 커리어 서비스</p>
@@ -117,7 +117,7 @@ class Nodemailer{
                 끝까지 함께해요! ✍️
               </p>
               <div class="videoContainer">
-                <button>영상 보러가기</button>
+                <a href="${content.jobVideo}"><button>영상 보러가기</button></a>
               </div>
               <div class="dividerContainer">
                 <img src="./Divider.png" alt="" />
@@ -136,7 +136,7 @@ class Nodemailer{
         let info = await transporter.sendMail({
           from: 'hyunwoo619@naver.com', // sender address 
           to: receivers, //"bar@example.com, baz@example.com", // list of receivers 
-          subject: "Hello ✔", // Subject line
+          subject: "Jump Newsletter", // Subject line
           text: 'hello world', //`${content.jobCode}, ${content.jobName}, ${content.jobVideo}, ${content.jobSummary}`, // plain text body
           html: emailFrame, // html body
         });
