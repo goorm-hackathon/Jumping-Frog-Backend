@@ -87,17 +87,17 @@ class Nodemailer{
               </style>
             </head>
               <div class="imgContainer">
-                <img src="./jump.png" alt="" />
+                <img src="./src/utils/jump.png" alt="" />
               </div>
               <div class="logoContainer">
-                <img src="./logo.png" alt="" />
+                <img src="./src/utils/logo.png" alt="" />
               </div>
               <div class="emailTitle">
                 <p>10대 제주도를 위한 커리어 서비스</p>
                 <p>성장 뉴스레터 서비스</p>
               </div>
               <div class="dividerContainer">
-                <img src="./Divider.png" alt="" />
+                <img src="./src/utils/Divider.png" alt="" />
               </div>
               <p class="textContainer">
                 안녕개굴! 점프지기입니다. <br />
@@ -119,7 +119,7 @@ class Nodemailer{
                 <a href="${content.jobVideo}"><button>영상 보러가기</button></a>
               </div>
               <div class="dividerContainer">
-                <img src="./Divider.png" alt="" />
+                <img src="./src/utils/Divider.png" alt="" />
               </div>
               <div class="opinionContainer">
                 <p>오늘의 뉴스 레터는 어떠셨나요?💌</p>
@@ -130,17 +130,17 @@ class Nodemailer{
                 <button>별로였어요 🤔</button>
               </div>`
         const emailContent = `<div class="imgContainer" style="text-align: center;margin-bottom: 84px;">
-        <img src="./jump.png" alt="">
+        <img src="./src/utils/jump.png" alt="">
       </div>
       <div class="logoContainer" style="text-align: center;">
-        <img src="./logo.png" alt="">
+        <img src="./src/utils/logo.png" alt="">
       </div>
       <div class="emailTitle" style="text-align: center;color: #f69183;">
         <p>10대 제주도를 위한 커리어 서비스</p>
         <p>성장 뉴스레터 서비스</p>
       </div>
       <div class="dividerContainer" style="text-align: center;margin-top: 109px;margin-bottom: 26px;">
-        <img src="./Divider.png" alt="">
+        <img src="./src/utils/Divider.png" alt="">
       </div>
       <p class="textContainer" style="text-align: center;opacity: 50%;line-height: 20px;">
         안녕개굴! 점프지기입니다. <br>
@@ -162,7 +162,7 @@ class Nodemailer{
         <a href="${content.jobVideo}"><button style="width: 170px;height: 37px;color: white;background-color: #fb513b;font-weight: 600;border: none;">영상 보러가기</button></a>
       </div>
       <div class="dividerContainer" style="text-align: center;margin-top: 109px;margin-bottom: 26px;">
-        <img src="./Divider.png" alt="">
+        <img src="./src/utils/Divider.png" alt="">
       </div>
       <div class="opinionContainer" style="text-align: center;">
         <p>오늘의 뉴스 레터는 어떠셨나요?💌</p>
