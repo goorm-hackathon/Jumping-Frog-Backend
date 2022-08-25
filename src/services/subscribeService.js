@@ -1,4 +1,4 @@
-import { subscriberModel } from "../db/models/subscriber-model";
+import { subscriberModel } from "../db/models/subscriber-model.js";
 class SubscriptionService {
     constructor(subscriberModel) {
         this.subModel  = subscriberModel;
@@ -29,6 +29,11 @@ class SubscriptionService {
         }
         // b. 구독 중이 아닌 경우
         const result = await this.subModel.cancleSubscription(email);
+        return result;
+    }
+    // 3. 전체 구독자 목록 불러오기
+    async getAllSubscribers(){
+        const result = await this.subModel.getAllSubscribers();
         return result;
     }
 }
