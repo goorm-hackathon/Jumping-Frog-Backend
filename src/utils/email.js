@@ -32,7 +32,7 @@ class Nodemailer{
             receivers +=  ', '
           }
         }
-        let content = jobService.findJob();
+        let content = await jobService.findJob();
         const emailContent = `
         <div class="imgContainer" style="text-align: center;margin-bottom: 84px;">
         <img src="https://ifh.cc/g/Y3wx3A.png" alt="">
