@@ -7,9 +7,9 @@ import { job } from './utils/schedule.js';
 
 const app = express();
 
-job.job();
-// jobService.insertJobs();
 
+// jobService.insertJobs();
+job.job();
 const corsOptions = {
     origin : 
 	[

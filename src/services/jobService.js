@@ -12,11 +12,11 @@ class JobService {
     async insertJobs() {
         const jobs = data.default.data;
         for (let i = 0; i < jobs.length; i++) {
-            const { jobCode, jobName, jobVideo, jobSummary } = jobs[i];
+            const { jobCode, jobName, jobVideo, jobSummary, imageUrl, jobLink } = jobs[i];
             const job = {
-                jobCode, jobName, jobVideo, jobSummary, isSent: false
+                jobCode, jobName, jobVideo, jobSummary, isSent: false, imageUrl, jobLink
             }
-            const result = await this.jobModel.insertJobs(jobs);
+            const result = await this.jobModel.insertJobs(job);
             console.log(result);
         }
     }

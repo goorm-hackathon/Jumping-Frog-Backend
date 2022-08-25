@@ -1,176 +1,221 @@
 {
-    "data":[
-     {
-      "분류": "경영·사무·금융·보험직",
-      "jobCode": 1,
-      "jobName": "장기이식코디네이터",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/oxoYpSc1QTQ",
-      "jobSummary": "기증자 발생을 점검하고, 뇌사자가 발생하면 국립장기이식관리센터(KONOS)로 연락을 취한다. 뇌사자 이송 및 관리를 하며, 기증자 가족에게 장기기증의 동의를 받는다. 장기 기증자, 수혜자 및 가족에게 이식에 관한 정보를 제공한다. 장기수혜자 및 가족들에게 장기기증 절차를 설명하고, 수술일정과 부가적인 행정절차를 관리한다. 수술에 참여하며, 장기분배기능을 담당한다. 적출내용을 관할 지방검찰청에 보고하고, 뇌사자 관리와 관련된 각종 기록을 관리한다. 적출 장기를 이송 및 보존한다. 장기수혜자에게 이식에 관한 정보를 제공하고, 이식수술 후 재활을 돕는다. 잠재뇌사자 발굴을 위한 중환자실 방문과 가족에 대한 기증권유 상담을 한다. 장기기증 관련 자료를 수집하고, 장기기증 활성화를 위한 홍보 및 교육을 한다. 생전 및 사후 장기기증에 관하여 상담하며, 등록을 받고 등록자를 관리한다."
-     },
-     {
-      "jobCode": 1,
-      "jobName": "브랜드매니저",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/oipsuWpBBQ",
-      "jobSummary": "브랜드의 프로모션 전략, 진출 국가 전략 및 고객 전략 등 대응 전략을 수립한다. 브랜드의 매출액과 영업이익 관점에서 실직 관리 업무를 진행한다. 브랜드의 단기, 중기, 장기 방향성에 따라 마케팅 전략을 수립한다. 트렌드에 따라 다양한 미디어 매체를 통해 브랜드 광고 홍보 전략을 실행한다. 상품 육성 및 상품 라인 구성 운영 등 시장 상황에 따라 상품을 다각도로 분석하고 개선한다. 소비자의 구매 패턴을 분석하여 브랜드 커뮤니케이션 방향성을 설계한다."
-     },
-     {
-      "jobCode": 1,
-      "jobName": "블록체인전문가",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/tyAEOLxzzPU",
-      "jobSummary": "블록체인 기반 기술을 연구하고 관련 애플리케이션을 개발한다. 블록체인 플랫폼을 연구·개발한다. API 및 인터페이스를 개발한다. 네트워크 내의 노드들의 상호검증을 통해 블록생성을 이끌어내는 프로세스와 알고리즘을 나타내는 컨센서스(합의) 엔진을 개발하고 연구한다. 블록체인 기반의 기술지원 및 프로젝트를 수행한다. 블록체인 기반의 다양한 정보시스템을 개발한다."
-     },
-     {
-      "분류": "연구직 및 공학 기술직",
-      "jobCode": 2,
-      "jobName": "천문학자",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/q8WvTiYPg90",
-      "jobSummary": "광학망원경, 전파망원경 등의 기구를 사용하여 천체현상을 관찰하거나 인공위성 등을 통해 수집된 관측자료를 분석하여 이론을 개발한다. 광학망원경, 전파망원경 등 천문학기기의 개발과 한국우주전파관측망 등 시스템을 구축한다. 달력 발간을 위한 월력요항을 발표한다. 일월출몰 시각, 각 행성의 위치 출목시각, 음양력 대조표 등을 수록한 역사를 발간한다. 우리나라 고대 천문유물의 복원, 고대 천문 관련 기록에 관한 연구를 수행한다. GPS를 이용한 지구자전, 지각운동, 대류층 및 이온층 등에 관한 연구를 수행한다. 기타 연구원(일반)들이 수행하는 일반적인 활동을 한다."
-     },
-     {
-      "jobCode": 2,
-      "jobName": "UI\/UX 디자이너",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/B2q6p1d3npI",
-      "jobSummary": "편리한 사용자 인터페이스를 제공하기 위하여 사용자의 요구사항을 분석한다. 하드웨어 특성을 고려한 UI\/UX의 기능을 분석하여 UI\/UX 디자인을 검토한다. 검토한 UI\/UX의 기능을 바탕으로 UI\/UX 디자인을 기획한다. 서비스 시나리오와 제품사양을 기준으로 사용자에게 최대한의 사용자 경험을 제공하기 위해 사용 환경과 사용자 요구사항의 UI\/UX 기능을 분석한다. 인간공학적인 사용성과 편리성을 고려하여 UI\/UX를 설계한다. 체계적인 방법으로 제품과 서비스를 이용하는 사용자를 정의하고 목표 사용자, 사용자의 니즈(Needs)와 목표, 이용행태에 관한 계획을 수립하여 자료를 수집한다. 시장의 사용자 니즈를 반영하여 UI\/UX를 개발하기 위해 UI\/UX에 관련된 트렌드, 경쟁환경과 내부역량을 분석한다. UI\/UX 분석결과를 바탕으로 UI\/UX 콘셉트를 도출하고 기능과 콘텐츠를 기획한다."
-     },
-     {
-      "jobCode": 2,
-      "jobName": "스마트공장설계자",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/YcR-cg5bDVA",
-      "jobSummary": "최적의 설비를 설계하기 위해 시스템의 기술규격을 검토하고 설비 간 상호운용성을 분석한다. 스마트설비의 메커니즘 구성, 구성부품과 제어방식을 결정하여 스마트설비 메커니즘을 설계한다. 스마트설비의 기구설계를 모델링하고 설비 구성 단위요소를 설계한다. 설비전원 시스템, 컨트롤 전원, 제어반을 설계한다. 입출력 신호 종류 및 수량을 검토하여 기계장치에 필요한 센서, PLC, 구동장치를 활용하여 자동화된 제어시스템을 설계한다. 하드웨어의 구성, 동작 등을 고려하여 스마트센서 활용을 검토한다. 로봇협업 설계를 검토하여 스마트설비와 로봇의 협업을 설계한다. 감시제어시스템 및 안전설계를 하고 스마트설비의 최적화를 검토한다."
-     },
-     {
-      "분류": "교육·법률·사회복지·경찰·소방직 및 군인",
-      "jobCode": 3,
-      "jobName": "입학사정관",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/8Z8a0r-iKk",
-      "jobSummary": "해당 분야에 대한 전문성을 활용하여 대학입학 전형의 전부 또는 일부에 참여한다. 지원자의 학업성적뿐 아니라 개인 환경, 특기, 대인관계, 논리력, 창의력, 소질, 잠재력 등을 종합적으로 평가하여 선별한다. 학교생활기록부, 시험성적, 각종 서류를 검토한다. 필요시 면접을 진행하기도 한다."
-     },
-     {
-      "jobCode": 3,
-      "jobName": "정신건강사회복지사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/AkdCBEnzIEg",
-      "jobSummary": "상담을 통해 사회복지 대상자의 욕구, 개선점, 보유 자원과 대상자 가족의 지원, 재정적인 문제 등에 대해 사정한다. 행정적, 재정적, 심리적, 사회적으로 지원해야 할 점을 파악하고 우선순위를 정한다. 심리 안정, 교육 및 훈련, 정서순화, 대인관계기술 습득, 건강유지 등 다양한 프로그램을 개발·기획하고 실시한다. 후원자나 자원봉사자를 모집하고 사회복지대상자에 대한 사회적 편견을 제거하기 위한 활동을 한다. 프로그램이나 기관에 대해 지역사회 사업장을 중심으로 홍보한다. 프로그램 및 각종 사회복지 활동 이후 그 결과에 대해 평가하고 개선책을 모색한다. 직업재활이나 취업을 위해 사업장을 개발하고 고용지원을 한다. 사회복지 대상자 가족을 대상으로 스트레스 감소, 환자 이해, 가정 내 지원 등에 대해 상담하고 프로그램을 운영한다. 수행업무에 대한 보고서를 작성하고 관련 행정업무를 수행한다."
-     },
-     {
-      "jobCode": 3,
-      "jobName": "외사경찰",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/JRZ2Tn7yphI",
-      "jobSummary": "즉, 자국의 국체에 대한 안전보장과 사회공공의 질서를 유지하기 위하여 헌정의 부정, 소요, 폭동, 국체의 부인·파괴·변혁 등의 일체의 불법적이고 불순한 요소를 제거하기 위한 경찰활동이다. 정보경찰은 국가의 안전과 사회공공의 질서유지를 그 목적으로 하는 점에서, 사회의 안녕과 국민의 생명·재산의 보호를 목적으로 하는 일반경찰작용보다 차원이 높다. 따라서 정보경찰은 보다 국가적 차원에서 국민을 보호하는 깊은 배려와 충성심이 있어야 하는 것이며 그에 따른 사후적 결과책임을 져야 하는 중대한 사명의식을 가져야 하는 경찰인 것이다."
-     },
-     {
-      "분류": "보건·의료직",
-      "jobCode": 4,
-      "jobName": "병원코디네이터",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/HTKXhjMjaqQ",
-      "jobSummary": "전화, 메일 등으로 상담을 하고, 환자의 예약관리 및 사후관리를 한다. 내방객의 방문목적을 확인하고, 초진의 경우 문진항목 설문지를 작성하도록 안내한다. 진료를 마친 환자에게 치료에 대한 설명과 주의점, 처방전 등을 안내한다. 환자의 추후 내방에 관한 예약관리를 하며, 수납을 담당하기도 한다. 병원 분위기 연출을 위해 실내외 환경을 조성한다. 병원 이미지 및 경영 개선을 위한 기획안을 작성하고 홍보·마케팅을 한다. 병원 서비스 품질을 향상시키기 위한 직원 서비스 관리 및 교육을 한다."
-     },
-     {
-      "jobCode": 4,
-      "jobName": "놀이치료사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/u9GI4v6Pxgo",
-      "jobSummary": "보호자 또는 아동과 상담하여 아동의 개인발달사항, 가족관계, 학습활동 등을 조사하고 기록한다. 각종 검사를 실시하여 심리적 문제의 유형 및 정도를 판별하고 진단한다. 의료진단서, 검사결과지, 상담기록지 등의 자료를 토대로 아동의 상태를 진단한다. 놀이기구를 설치한 놀이방에서 아동이 선택한 기구로 놀이를 진행한다. 사회관계 형성·유지에 필요한 능력을 진단하거나 이를 증진시키기 위해 집단적 치료활동을 수행한다. 놀이치료가 끝난 후에는 아동 및 보호자를 상대로 지도활동을 하고, 결과보고서를 작성한다. 아동의 상태변화를 확인하고, 추후 놀이치료의 방향을 계획한다. 교육기관, 의료기관, 아동상담센터 등의 자문역할을 수행한다. 놀이기구에 관한 정보를 수집하고, 직접 구매하기도 한다."
-     },
-     {
-      "jobCode": 4,
-      "jobName": "의무기록사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/ry8IFrZBvfQ",
-      "jobSummary": "환자들의 기본정보 및 의무기록 자료를 수집한다. 의무기록의 충실성과 완결성을 분석한 후 미비기록 체크리스트를 작성하여 관리한다. 질병분류번호, 사인분류번호, 의료행위분류번호, DRG분류번호 등을 부여한다. 초진기록지를 생성한다. 새로운 의무기록서식을 개발한다. 의무기록지를 정리하여 보관한다. 진료기록지를 전사한다. 수집된 정보를 컴퓨터 데이터베이스에 정리한다. 의학연구정보, 경영지원정보, 병원평가정보 등을 생성, 분석, 제공한다. 의료 정보자료를 분석하여 통계자료를 만든다. 의료기록 대출 등 의무기록 이용에 대해 지원한다. 의무기록 정보보호를 위한 의료진 서명관리 접근권한관리, 의무기록 복사·열람·정보요구에 대한 권한관리를 한다. 전자의무기록 개발, 의료자료보관체계 등 의료정보체계 구축에 참여한다."
-     },
-     {
-      "분류": "예술·디자인·방송·스포츠직",
-      "jobCode": 5,
-      "jobName": "데이터시각화전문가",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/53XRpujiwpg",
-      "jobSummary": "다양한 형태의 데이터와 분석결과를 시각화하기 위하여 표현규칙, 사용자관점의 시각화 요건을 정의한다. 시각화 요건에 따른 사용자시나리오를 작성하고 핵심요소 및 그래픽요소를 이용하여 스토리보드를 기획한다. 기획된 스토리보드에 따라 시각화를 구현하기 위한 도구와 기술을 선택하고 정보시각화를 위한 접근방법을 결정한다. 분석의 핵심내용을 단순하고 명확하게 전달할 수 있도록 구조적으로 시각화한다. 추가정보를 이용하여 시각화한 그래프를 보정하고 시각표현을 극대화하여 품질을 높이기 위해 타이포그래피, 그리드, 색상, 아이소타이프 등 그래픽디자인을 적용한다. 정보사용자의 행동이나 조작에 따른 반응, 정보시각화의 변화 등으로 정보와 정보사용자 간의 관계확장을 위해 사용자 참여를 유도하는 인터렉션 기능을 구현한다. 최종 디자인된 시각화결과물이 시각적으로 적절하게 구현되었는지 확인한다."
-     },
-     {
-      "jobCode": 5,
-      "jobName": "재활승마지도사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/tPoO3DoUMic",
-      "jobSummary": "재활승마를 위한 운영 계획을 수립하고 대회협력을 추진하며 시행한다. 강습계획을 수립하고 준비하며 시행하고 평가한다. 재활승마 대상자를 평가하고 선정하며 일정 및 기록을 관리한다. 말의 선정부터 사양관리, 말 질병 및 예방 및 응급조치, 훈련관리, 마구관리 등을 수행한다. 자원봉사자를 모집, 교육, 운영하고 관리한다. 강습장, 방목장, 마사, 편의시설 등의 안전을 점검한다."
-     },
-     {
-      "jobCode": 5,
-      "jobName": "A&R 기획자",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/ofoEUktvb68",
-      "jobSummary": "소속 아티스트의 방향성에 부합하는 음악 콘셉트의 기획 및 레퍼토리를 발굴한다. 앨범 제작 예산을 수립하고 진행비용을 집행한다. 콘셉트에 맞는 곡을 수급하고 세션, 녹음실, 믹싱엔지니어 등을 섭외한다. 외부 아티스트, 프로듀서, 작곡·작사가 등을 발굴하고 관리한다. 음원제작, 발매일정을 관리한다. 콘서트 및 무대 관련 음악, 밴드 등 현장 음악 관련 제반 사항을 관리한다. 대외업체와 홍보·마케팅 프로모션 콘텐츠를 제작하고 진행한다. 음원을 관리하고 음원차트, 판매량, 시장 반응을 모니터링한다."
-     },
-     {
-      "분류": "미용·여행·숙박·음식·경비·청소직",
-      "jobCode": 6,
-      "jobName": "애견미용사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/if9taoz6FTE",
-      "jobSummary": "고객과 동물 털의 커트 모양에 대해 상담한 후 작업방식을 정한다. 반려동물의 털상태 및 건강상태를 확인한다. 건강상태가 나쁜 경우 고객에게 알려 수의사에게 적절한 치료를 받게 한다. 샴푸와 린스를 사용하여 반려동물을 목욕시킨다. 드라이어를 사용하여 털을 말리고 털이 긴 동물은 트리밍(털을 잘라주는 작업)을 한다. 빗과 머리핀을 사용하여 고객이 원하는 형태로 고정시킨 후 귀청소를 하고 발톱을 깎는다. 스포팅(털만 제거), 서머마이애미(머리, 꼬리, 다리의 끝부분 털만을 남김), 로열터치(허리와 목 부분의 털만을 깎음) 등 자르는 기법을 이용해 애완동물의 균형을 고려하여 잘라준다. 털 제거, 빗질 등 마무리 작업을 한다. 고객의 요청에 따라 염색약품을 배합하여 털을 염색한다."
-     },
-     {
-      "jobCode": 6,
-      "jobName": "여행안내원",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/YkFmhfPnKa4",
-      "jobSummary": "여행안내원은 여행사가 기획하고 주최하는 국내외 개인 및 단체 관광에 동행해서 관광객들이 쾌적하고 보람 있는 관광을 할 수 있도록 도와주는 모든 제반 업무를 담당한다. 여행 출발 전, 관광객의 신상 및 여행 목적 등을 파악한 다음, 여행 방문지에 대한 정보를 수집하고 숙박시설, 교통편 등의 모든 사항을 확인한다. 관광객들에게 여행일정에 대해 설명하고 관광지로 인솔하며, 관광지에 대한 역사와 문화 및 정보를 제공한다. 여행 중에 발생한 불의의 사고는 본사와의 연락하여 신속하게 해결하고, 여행이 끝난 후 여행의 문제점 및 개선점을 확인하여 향후 관광기획에 참고한다."
-     },
-     {
-      "jobCode": 6,
-      "jobName": "중식조리사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/kyXwn0O_BwU",
-      "jobSummary": "주문서나 식단계획표에 따라 재료를 주문한다. 재료의 상태를 검수하고 관리한다. 요리기기를 조작·점검하고 이상 유무를 확인한다. 식단과 주문량에 따라 재료를 선택하여 다듬고 세척한다. 요리기구(솥, 들통, 국자, 화덕, 냄비, 용기, 온도계, 스푼, 체, 주걱, 도마, 칼, 채반, 구절판, 프라잉 팬, 숯, 가스기구, 석쇠 등)를 사용하여 각종 중식요리(소스·육수, 냉채, 튀김·볶음·구이 요리, 스프 및 탕 요리, 찜 및 조림 요리, 딤섬 및 만두 요리, 면 요리, 밥·죽 요리, 절임 및 부식 등)를 조리한다. 조리가 완료되면 조리법, 재료의 특성에 따라 적당한 그릇을 선택하여 담아낸다. 조리된 음식의 맛, 영양상태 등을 파악하고 점검 및 개선한다."
-     },
-     {
-      "분류": "영업·판매·운전·운송직",
-      "jobCode": 7,
-      "jobName": "부동산컨설턴트",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/Zl-pmerf7k8",
-      "jobSummary": "토지나 건물의 최적의 활용방안을 분석하기 위하여 각종 자료를 수집·분석한다. 부동산의 보유, 매매, 개발의 타당성을 검토한다. 개발 시 최적시설·최적규모를 판정하여 투자수익성을 분석한다. 관련 지역 부동산의 시세나 임대료 등의 가격을 조사한다. 시설물의 설치에 따른 각종 자료를 수집하여 지역의 상권분석을 한다. 부동산세무나 관련 법규, 인허가 등에 관하여 상담자에게 자문한다. 각종 자료를 조사·분석하여 부동산의 분양전략이나, 새로운 형태의 부동산 상품을 개발한다. 해외의 각종 자료를 수집하여 해외부동산의 실태를 조사하기도 한다."
-     },
-     {
-      "jobCode": 7,
-      "jobName": "특수차운전원",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/swVnzj4adhU",
-      "jobSummary": "운송지역을 확인하고 엔진오일, 냉각수, 타이어의 공기압력 등을 점검한다. 특정화물의 안전한 수송을 위하여 각종 안전장치의 이상 유무를 확인한다. 목적지에 도착하여 화물의 이상 유무를 확인하고 서류를 정리하여 관련 부서에 인계한다. 가스나 유류를 운반하기 위하여 탱크의 밀폐상태 및 압력을 점검하기도 한다."
-     },
-     {
-      "분류": "건설·채굴직",
-      "jobCode": 8,
-      "jobName": "굴삭기운전원",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/IdIev1jGWnI",
-      "jobSummary": "작업할 내용을 숙지하고 굴삭작업을 원활하게 수행하기 위해 굴삭기의 연료 및 냉각수, 오일, 작동상태 등을 확인한다. 작업할 장소의 지형 및 작업조건을 파악하여 작업 방법을 결정한다. 굴삭기를 수평으로 유지하고, 토사, 골재 및 각목 등의 굴삭재를 파서 하역지역 또는 덤프트럭적재함에 하역하기 위해 암(Arm), 붐 및 버킷을 조작한다. 덤프트럭운전원과 신호를 주고받으며 굴삭기를 조종한다. 굴삭기 버킷을 조작하여 지면을 평탄하게 고른다. 파쇄작업을 위해 포장도로나 콘크리트를 버킷 대신 유압브레이커를 부착하여 조종한다. 작업이 끝나면 장비를 점검한다."
-     },
-     {
-      "분류": "설치·정비·생산직",
-      "jobCode": 9,
-      "jobName": "항공관제사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/dJkv_g5aPB8",
-      "jobSummary": "항공교통관제사는 항공기의 안전한 이착륙을 돕기 위하여 비행기조종사에게 기상, 풍속 등의 정보를 제공하고 항공교통을 지휘한다. 관제탑에서 항공기의 이륙 및 착륙신고서를 확인하고 활주로 및 공항주변의 기상상태를 점검한다. 이륙 및 착륙하고자 하는 항공기조종사와 항공기의 목적지, 항공기 상태, 연료의 잔유량 등에 대해 교신한다. 해당 항공기의 이·착륙 활주로, 예정시간, 순서 등을 배정하여 유도하고 이·착륙을 허가한다. 접근관제소에서 운항중인 항공기의 위치와 고도 등을 확인하고 항로의 상태를 파악하여 고도의 상승 및 강하수준을 지시한다. 비상상황 발생 시 관련기관에 연락을 취하고 비상착륙방법 및 비상활주로에 대해 안내한다."
-     },
-     {
-      "jobCode": 9,
-      "jobName": "농업용기계정비원",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/9fmzdZLN2VI",
-      "jobSummary": "기중기, 해머, 수동용 공구를 사용하여 고장 및 파손된 농업용 기계를 분해·점검한다. 각종 벨트의 헐거움이나 냉각장치, 윤활장치, 시동장치 등을 테스터기 또는 육안으로 점검하여 엔진의 상태를 점검한다. 각 부품의 마모정도와 손상을 육안 또는 청각으로 조사하여 이상이 있는 부품을 교체하거나 정비한다. 정비 후 시운전을 하여 이상 유무를 확인하고, 부품의 조립상태를 점검한다. 농기구를 점검 및 수리하기도 하고 각종 펌프의 설치 및 유지 보수업무를 하기도 한다."
-     },
-     {
-      "jobCode": 9,
-      "jobName": "한지제조원",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/0mDh6kSfGUg",
-      "jobSummary": "지통에 물과 원료를 넣고 막대로 잘 저어 고르게 분산시킨 후 섬유끼리의 분산과 종이 뜰 때 발에서 물 빠짐을 조절할 수 있도록 닥풀즙(황초기뿌리의 액)을 넣고 다시 잘 저어 준다. 지통에 발을 담가 전·후·좌·우로 흔들어 종이를 떠내고, 떠낸 종이 사이에는 베게(왕골, 합성수지 끈 등의 재질로 떠낸 종이 사이사이에 끼워서 한 장씩 종이를 떠내기 쉽게 한 것)를 끼워서 나중에 한 장씩 떠내기 쉽게 한다. 떠낸 종이를 쌓아가다가 일정한 높이가 되면 널빤지 사이에 넣은 후, 무거운 돌이나 지렛대를 사용해 물을 빼준다. 종이의 사용 목적에 따라 약간 덜 마른 종이를 포개거나 풀칠을 하여 붙여 디딜방아나 방망이로 두들겨서 종이가 치밀하고 매끄러우며 윤기가 나도록 한다. 자연소재인 식물의 뿌리, 줄기, 잎 등에서 얻는 천연염료를 물에 끊여 종이를 각종 색상으로 염색한다."
-     },
-     {
-      "분류": "농림어업직",
-      "jobCode": 10,
-      "jobName": "동물사육사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/SvXW4OeGdF4",
-      "jobSummary": "동물 사육장의 배설물을 치우고 물이나 소독약을 이용해 청소하여 청결상태를 유지한다. 동물의 습성을 파악하여 동물에 따라 일정한 간격으로 급식 및 급수한다. 동물의 변이나 움직임, 울음소리 등을 관찰하여 건강 상태를 파악한다. 이상이 있을 시 수의사에게 보고하며, 진료를 보조해 수의사를 도와준다. 동물 관람객의 행동을 감시하고, 질문이 있을 경우 동물에 대하여 설명해 준다. 동물시설물을 관리하거나 사파리 내의 동물에 대한 방사, 입사를 관리하기도 한다."
-     },
-     {
-      "jobCode": 10,
-      "jobName": "조향사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/UJObnpUhLkc",
-      "jobSummary": "향이 사용될 제품의 특성을 고려하여 콘셉트를 설정한다. 향료를 준비하고 계량용기를 사용하여 중량을 측정하고 향료를 배합한다. 알코올을 첨가하여 향을 부드럽게 한다. 블로터스트립(향을 맡는 종이)을 사용하여 배합된 향료의 향을 맡아보고 추가 향료를 조합한다. 제품의 사용여부를 결정하기 위해 개발된 향으로 품평회를 개최하기도 한다. 향료회사에서 제공받은 여러 가지 향들을 제품에 사용하기 위해 평가하기도 한다. 새로운 향을 개발하거나 식품 등에 향을 첨가하기도 한다."
-     },
-     {
-      "jobCode": 10,
-      "jobName": "제과제빵사",
-      "jobVideo": "https:\/\/www.youtube.com\/embed\/cHT3amOELo8",
-      "jobSummary": "제조할 제품의 종류에 따라 원료를 선별한 후 제품 표준에 맞게 일정 비율로 계량한다. 원료를 혼합기에 투입한 후 혼합이 용이하도록 교반기를 가동한다. 혼합이 완료되면 반죽을 꺼내 작업대 위에 놓고, 일정한 크기로 절단하거나 손이나 형틀을 사용하여 일정 모양으로 성형한 후, 금속판 위에 정렬한다. 오븐의 뚜껑을 열고 금속판을 넣은 후 오븐의 스위치를 조절하여 가열온도를 조절한다. 일정 온도를 유지하기 위해 수시로 관찰·확인한다. 빵이 구워지면 오븐의 가동을 중지하고 제조된 빵을 꺼내 맛, 향, 색상, 형태 등을 점검한다."
-     }
+    
+    "data": [
+        {
+            "jobCode": "1",
+            "jobName": "장기이식코디네이터",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/oxoYpSc1QTQ",
+            "jobSummary": "기증자 발생을 점검하고, 뇌사자가 발생하면 국립장기이식관리센터(KONOS)로 연락을 취한다. 뇌사자 이송 및 관리를 하며, 기증자 가족에게 장기기증의 동의를 받는다. 장기 기증자, 수혜자 및 가족에게 이식에 관한 정보를 제공한다. 장기수혜자 및 가족들에게 장기기증 절차를 설명하고, 수술일정과 부가적인 행정절차를 관리한다. 수술에 참여하며, 장기분배기능을 담당한다. 적출내용을 관할 지방검찰청에 보고하고, 뇌사자 관리와 관련된 각종 기록을 관리한다. 적출 장기를 이송 및 보존한다. 장기수혜자에게 이식에 관한 정보를 제공하고, 이식수술 후 재활을 돕는다. 잠재뇌사자 발굴을 위한 중환자실 방문과 가족에 대한 기증권유 상담을 한다. 장기기증 관련 자료를 수집하고, 장기기증 활성화를 위한 홍보 및 교육을 한다. 생전 및 사후 장기기증에 관하여 상담하며, 등록을 받고 등록자를 관리한다.",
+            "imageUrl": "https://m.news.nate.com/view/photo?url=//thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ts/2021/08/12/14620947_677832_1937_org.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=jobDicSrchByJobCl&jobCode=2430&jobSeq=20"
+        },
+        {
+            "jobCode": "1",
+            "jobName": "브랜드매니저",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/oipsuWpBBQ",
+            "jobSummary": "브랜드의 프로모션 전략, 진출 국가 전략 및 고객 전략 등 대응 전략을 수립한다. 브랜드의 매출액과 영업이익 관점에서 실직 관리 업무를 진행한다. 브랜드의 단기, 중기, 장기 방향성에 따라 마케팅 전략을 수립한다. 트렌드에 따라 다양한 미디어 매체를 통해 브랜드 광고 홍보 전략을 실행한다. 상품 육성 및 상품 라인 구성 운영 등 시장 상황에 따라 상품을 다각도로 분석하고 개선한다. 소비자의 구매 패턴을 분석하여 브랜드 커뮤니케이션 방향성을 설계한다.",
+            "imageUrl": "https://cdn.maily.so/5pz9ipic7rdn6l11utpntkum8c8x",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2731&jobSeq=7&txtKeyword=%EB%B8%8C%EB%9E%9C%EB%93%9C&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "1",
+            "jobName": "블록체인전문가",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/tyAEOLxzzPU",
+            "jobSummary": "블록체인 기반 기술을 연구하고 관련 애플리케이션을 개발한다. 블록체인 플랫폼을 연구·개발한다. API 및 인터페이스를 개발한다. 네트워크 내의 노드들의 상호검증을 통해 블록생성을 이끌어내는 프로세스와 알고리즘을 나타내는 컨센서스(합의) 엔진을 개발하고 연구한다. 블록체인 기반의 기술지원 및 프로젝트를 수행한다. 블록체인 기반의 다양한 정보시스템을 개발한다.",
+            "imageUrl": "https://cdn.nvp.co.kr/news/photo/201712/122737_56950_3533.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=jobDicSrchByJobCl&jobCode=2223&jobSeq=14"
+        },
+        {
+            "jobCode": "2",
+            "jobName": "천문학자",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/q8WvTiYPg90",
+            "jobSummary": "광학망원경, 전파망원경 등의 기구를 사용하여 천체현상을 관찰하거나 인공위성 등을 통해 수집된 관측자료를 분석하여 이론을 개발한다. 광학망원경, 전파망원경 등 천문학기기의 개발과 한국우주전파관측망 등 시스템을 구축한다. 달력 발간을 위한 월력요항을 발표한다. 일월출몰 시각, 각 행성의 위치 출목시각, 음양력 대조표 등을 수록한 역사를 발간한다. 우리나라 고대 천문유물의 복원, 고대 천문 관련 기록에 관한 연구를 수행한다. GPS를 이용한 지구자전, 지각운동, 대류층 및 이온층 등에 관한 연구를 수행한다. 기타 연구원(일반)들이 수행하는 일반적인 활동을 한다.",
+            "imageUrl": "http://dhcdn.design.co.kr/cms/img/2015/02/M.1424073973.6786.4.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2112&jobSeq=36&txtKeyword=%EC%B2%9C%EB%AC%B8&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "2",
+            "jobName": "UI/UX 디자이너",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/B2q6p1d3npI",
+            "jobSummary": "편리한 사용자 인터페이스를 제공하기 위하여 사용자의 요구사항을 분석한다. 하드웨어 특성을 고려한 UI/UX의 기능을 분석하여 UI/UX 디자인을 검토한다. 검토한 UI/UX의 기능을 바탕으로 UI/UX 디자인을 기획한다. 서비스 시나리오와 제품사양을 기준으로 사용자에게 최대한의 사용자 경험을 제공하기 위해 사용 환경과 사용자 요구사항의 UI/UX 기능을 분석한다. 인간공학적인 사용성과 편리성을 고려하여 UI/UX를 설계한다. 체계적인 방법으로 제품과 서비스를 이용하는 사용자를 정의하고 목표 사용자, 사용자의 니즈(Needs)와 목표, 이용행태에 관한 계획을 수립하여 자료를 수집한다. 시장의 사용자 니즈를 반영하여 UI/UX를 개발하기 위해 UI/UX에 관련된 트렌드, 경쟁환경과 내부역량을 분석한다. UI/UX 분석결과를 바탕으로 UI/UX 콘셉트를 도출하고 기능과 콘텐츠를 기획한다.",
+            "imageUrl": "https://twitter.com/ppsskr/status/1346683078542938112",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2715&jobSeq=8&txtKeyword=UX&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "2",
+            "jobName": "스마트공장설계자",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/YcR-cg5bDVA",
+            "jobSummary": "최적의 설비를 설계하기 위해 시스템의 기술규격을 검토하고 설비 간 상호운용성을 분석한다. 스마트설비의 메커니즘 구성, 구성부품과 제어방식을 결정하여 스마트설비 메커니즘을 설계한다. 스마트설비의 기구설계를 모델링하고 설비 구성 단위요소를 설계한다. 설비전원 시스템, 컨트롤 전원, 제어반을 설계한다. 입출력 신호 종류 및 수량을 검토하여 기계장치에 필요한 센서, PLC, 구동장치를 활용하여 자동화된 제어시스템을 설계한다. 하드웨어의 구성, 동작 등을 고려하여 스마트센서 활용을 검토한다. 로봇협업 설계를 검토하여 스마트설비와 로봇의 협업을 설계한다. 감시제어시스템 및 안전설계를 하고 스마트설비의 최적화를 검토한다.",
+            "imageUrl": "https://img.hankyung.com/photo/202106/AA.25202206.1.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2351&jobSeq=97&txtKeyword=%EC%8A%A4%EB%A7%88%ED%8A%B8%EA%B3%B5%EC%9E%A5&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "3",
+            "jobName": "입학사정관",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/8Z8a0r-iKk",
+            "jobSummary": "해당 분야에 대한 전문성을 활용하여 대학입학 전형의 전부 또는 일부에 참여한다. 지원자의 학업성적뿐 아니라 개인 환경, 특기, 대인관계, 논리력, 창의력, 소질, 잠재력 등을 종합적으로 평가하여 선별한다. 학교생활기록부, 시험성적, 각종 서류를 검토한다. 필요시 면접을 진행하기도 한다.",
+            "imageUrl": "https://static.ebs.co.kr/images/bhp/tvao/images/1350989834431.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2591&jobSeq=8&txtKeyword=%EC%9E%85%ED%95%99%EC%82%AC%EC%A0%95%EA%B4%80&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "3",
+            "jobName": "정신건강사회복지사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/AkdCBEnzIEg",
+            "jobSummary": "상담을 통해 사회복지 대상자의 욕구, 개선점, 보유 자원과 대상자 가족의 지원, 재정적인 문제 등에 대해 사정한다. 행정적, 재정적, 심리적, 사회적으로 지원해야 할 점을 파악하고 우선순위를 정한다. 심리 안정, 교육 및 훈련, 정서순화, 대인관계기술 습득, 건강유지 등 다양한 프로그램을 개발·기획하고 실시한다. 후원자나 자원봉사자를 모집하고 사회복지대상자에 대한 사회적 편견을 제거하기 위한 활동을 한다. 프로그램이나 기관에 대해 지역사회 사업장을 중심으로 홍보한다. 프로그램 및 각종 사회복지 활동 이후 그 결과에 대해 평가하고 개선책을 모색한다. 직업재활이나 취업을 위해 사업장을 개발하고 고용지원을 한다. 사회복지 대상자 가족을 대상으로 스트레스 감소, 환자 이해, 가정 내 지원 등에 대해 상담하고 프로그램을 운영한다. 수행업무에 대한 보고서를 작성하고 관련 행정업무를 수행한다.",
+            "imageUrl": "https://www.hakjum.com/hspimages/sub/licenseInfo_sabok.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2471&jobSeq=1&txtKeyword=%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "3",
+            "jobName": "외사경찰",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/JRZ2Tn7yphI",
+            "jobSummary": "즉, 자국의 국체에 대한 안전보장과 사회공공의 질서를 유지하기 위하여 헌정의 부정, 소요, 폭동, 국체의 부인·파괴·변혁 등의 일체의 불법적이고 불순한 요소를 제거하기 위한 경찰활동이다. 정보경찰은 국가의 안전과 사회공공의 질서유지를 그 목적으로 하는 점에서, 사회의 안녕과 국민의 생명·재산의 보호를 목적으로 하는 일반경찰작용보다 차원이 높다. 따라서 정보경찰은 보다 국가적 차원에서 국민을 보호하는 깊은 배려와 충성심이 있어야 하는 것이며 그에 따른 사후적 결과책임을 져야 하는 중대한 사명의식을 가져야 하는 경찰인 것이다.",
+            "imageUrl": "https://cdnweb01.wikitree.co.kr/webdata/editor/202006/28/img_20200628160213_f66ffbbd.webp",
+            "jobLink": "https://terms.naver.com/entry.naver?docId=1962214&ref=y&cid=50300&categoryId=50300"
+        },
+        {
+            "jobCode": "4",
+            "jobName": "병원코디네이터",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/HTKXhjMjaqQ",
+            "jobSummary": "전화, 메일 등으로 상담을 하고, 환자의 예약관리 및 사후관리를 한다. 내방객의 방문목적을 확인하고, 초진의 경우 문진항목 설문지를 작성하도록 안내한다. 진료를 마친 환자에게 치료에 대한 설명과 주의점, 처방전 등을 안내한다. 환자의 추후 내방에 관한 예약관리를 하며, 수납을 담당하기도 한다. 병원 분위기 연출을 위해 실내외 환경을 조성한다. 병원 이미지 및 경영 개선을 위한 기획안을 작성하고 홍보·마케팅을 한다. 병원 서비스 품질을 향상시키기 위한 직원 서비스 관리 및 교육을 한다.",
+            "imageUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkC8zn%2FbtqN8ficJQp%2FxoFqyS1dcX4dcTKZYVLPD0%2Fimg.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=3991&jobSeq=1&txtKeyword=%EB%B3%91%EC%9B%90%EC%BD%94%EB%94%94&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "4",
+            "jobName": "놀이치료사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/u9GI4v6Pxgo",
+            "jobSummary": "보호자 또는 아동과 상담하여 아동의 개인발달사항, 가족관계, 학습활동 등을 조사하고 기록한다. 각종 검사를 실시하여 심리적 문제의 유형 및 정도를 판별하고 진단한다. 의료진단서, 검사결과지, 상담기록지 등의 자료를 토대로 아동의 상태를 진단한다. 놀이기구를 설치한 놀이방에서 아동이 선택한 기구로 놀이를 진행한다. 사회관계 형성·유지에 필요한 능력을 진단하거나 이를 증진시키기 위해 집단적 치료활동을 수행한다. 놀이치료가 끝난 후에는 아동 및 보호자를 상대로 지도활동을 하고, 결과보고서를 작성한다. 아동의 상태변화를 확인하고, 추후 놀이치료의 방향을 계획한다. 교육기관, 의료기관, 아동상담센터 등의 자문역할을 수행한다. 놀이기구에 관한 정보를 수집하고, 직접 구매하기도 한다.",
+            "imageUrl": "http://cdn.edujin.co.kr/news/photo/202207/39386_79933_5632.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2459&jobSeq=1&txtKeyword=%EB%86%80%EC%9D%B4%EC%B9%98%EB%A3%8C&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "4",
+            "jobName": "의무기록사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/ry8IFrZBvfQ",
+            "jobSummary": "환자들의 기본정보 및 의무기록 자료를 수집한다. 의무기록의 충실성과 완결성을 분석한 후 미비기록 체크리스트를 작성하여 관리한다. 질병분류번호, 사인분류번호, 의료행위분류번호, DRG분류번호 등을 부여한다. 초진기록지를 생성한다. 새로운 의무기록서식을 개발한다. 의무기록지를 정리하여 보관한다. 진료기록지를 전사한다. 수집된 정보를 컴퓨터 데이터베이스에 정리한다. 의학연구정보, 경영지원정보, 병원평가정보 등을 생성, 분석, 제공한다. 의료 정보자료를 분석하여 통계자료를 만든다. 의료기록 대출 등 의무기록 이용에 대해 지원한다. 의무기록 정보보호를 위한 의료진 서명관리 접근권한관리, 의무기록 복사·열람·정보요구에 대한 권한관리를 한다. 전자의무기록 개발, 의료자료보관체계 등 의료정보체계 구축에 참여한다.",
+            "imageUrl": "https://twitter.com/mySMC/status/1068317516991066113",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2464&jobSeq=2&txtKeyword=%EC%9D%98%EB%AC%B4%EA%B8%B0%EB%A1%9D&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "5",
+            "jobName": "데이터시각화전문가",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/53XRpujiwpg",
+            "jobSummary": "다양한 형태의 데이터와 분석결과를 시각화하기 위하여 표현규칙, 사용자관점의 시각화 요건을 정의한다. 시각화 요건에 따른 사용자시나리오를 작성하고 핵심요소 및 그래픽요소를 이용하여 스토리보드를 기획한다. 기획된 스토리보드에 따라 시각화를 구현하기 위한 도구와 기술을 선택하고 정보시각화를 위한 접근방법을 결정한다. 분석의 핵심내용을 단순하고 명확하게 전달할 수 있도록 구조적으로 시각화한다. 추가정보를 이용하여 시각화한 그래프를 보정하고 시각표현을 극대화하여 품질을 높이기 위해 타이포그래피, 그리드, 색상, 아이소타이프 등 그래픽디자인을 적용한다. 정보사용자의 행동이나 조작에 따른 반응, 정보시각화의 변화 등으로 정보와 정보사용자 간의 관계확장을 위해 사용자 참여를 유도하는 인터렉션 기능을 구현한다. 최종 디자인된 시각화결과물이 시각적으로 적절하게 구현되었는지 확인한다.",
+            "imageUrl": "https://dataonair.or.kr/wp-content/uploads/2020/10/19.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2231&jobSeq=5&txtKeyword=%EC%8B%9C%EA%B0%81%ED%99%94&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "5",
+            "jobName": "재활승마지도사",
+            "jobVideo": "https://youtu.be/tPoO3DoUMic",
+            "jobSummary": "재활승마를 위한 운영 계획을 수립하고 대회협력을 추진하며 시행한다. 강습계획을 수립하고 준비하며 시행하고 평가한다. 재활승마 대상자를 평가하고 선정하며 일정 및 기록을 관리한다. 말의 선정부터 사양관리, 말 질병 및 예방 및 응급조치, 훈련관리, 마구관리 등을 수행한다. 자원봉사자를 모집, 교육, 운영하고 관리한다. 강습장, 방목장, 마사, 편의시설 등의 안전을 점검한다.",
+            "imageUrl": "https://cdnweb01.wikitree.co.kr/webdata/editor/202011/05/img_20201105150239_1aa535d8.webp",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2869&jobSeq=10&txtKeyword=%EC%9E%AC%ED%99%9C%EC%8A%B9%EB%A7%88&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "5",
+            "jobName": "A&R 기획자",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/tPoO3DoUMic",
+            "jobSummary": "소속 아티스트의 방향성에 부합하는 음악 콘셉트의 기획 및 레퍼토리를 발굴한다. 앨범 제작 예산을 수립하고 진행비용을 집행한다. 콘셉트에 맞는 곡을 수급하고 세션, 녹음실, 믹싱엔지니어 등을 섭외한다. 외부 아티스트, 프로듀서, 작곡·작사가 등을 발굴하고 관리한다. 음원제작, 발매일정을 관리한다. 콘서트 및 무대 관련 음악, 밴드 등 현장 음악 관련 제반 사항을 관리한다. 대외업체와 홍보·마케팅 프로모션 콘텐츠를 제작하고 진행한다. 음원을 관리하고 음원차트, 판매량, 시장 반응을 모니터링한다.",
+            "imageUrl": "https://m.koreaart.ac.kr/images/faculty/entertain/show_1.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2881&jobSeq=5&txtKeyword=A&R&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "6",
+            "jobName": "애견미용사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/if9taoz6FTE",
+            "jobSummary": "고객과 동물 털의 커트 모양에 대해 상담한 후 작업방식을 정한다. 반려동물의 털상태 및 건강상태를 확인한다. 건강상태가 나쁜 경우 고객에게 알려 수의사에게 적절한 치료를 받게 한다. 샴푸와 린스를 사용하여 반려동물을 목욕시킨다. 드라이어를 사용하여 털을 말리고 털이 긴 동물은 트리밍(털을 잘라주는 작업)을 한다. 빗과 머리핀을 사용하여 고객이 원하는 형태로 고정시킨 후 귀청소를 하고 발톱을 깎는다. 스포팅(털만 제거), 서머마이애미(머리, 꼬리, 다리의 끝부분 털만을 남김), 로열터치(허리와 목 부분의 털만을 깎음) 등 자르는 기법을 이용해 애완동물의 균형을 고려하여 잘라준다. 털 제거, 빗질 등 마무리 작업을 한다. 고객의 요청에 따라 염색약품을 배합하여 털을 염색한다.",
+            "imageUrl": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202110/05/6796abb3-bed6-4b76-86b6-756b90d985e8.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=4291&jobSeq=4&txtKeyword=%EC%95%A0%EA%B2%AC%EB%AF%B8%EC%9A%A9%EC%82%AC&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "6",
+            "jobName": "여행안내원",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/YkFmhfPnKa4",
+            "jobSummary": "여행안내원은 여행사가 기획하고 주최하는 국내외 개인 및 단체 관광에 동행해서 관광객들이 쾌적하고 보람 있는 관광을 할 수 있도록 도와주는 모든 제반 업무를 담당한다. 여행 출발 전, 관광객의 신상 및 여행 목적 등을 파악한 다음, 여행 방문지에 대한 정보를 수집하고 숙박시설, 교통편 등의 모든 사항을 확인한다. 관광객들에게 여행일정에 대해 설명하고 관광지로 인솔하며, 관광지에 대한 역사와 문화 및 정보를 제공한다. 여행 중에 발생한 불의의 사고는 본사와의 연락하여 신속하게 해결하고, 여행이 끝난 후 여행의 문제점 및 개선점을 확인하여 향후 관광기획에 참고한다.",
+            "imageUrl": "https://image.fnnews.com/resource/media/image/2022/06/13/202206132321292417_l.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=4321&jobSeq=8&txtKeyword=%EC%97%AC%ED%96%89%EC%95%88%EB%82%B4&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "6",
+            "jobName": "중식조리사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/kyXwn0O_BwU",
+            "jobSummary": "주문서나 식단계획표에 따라 재료를 주문한다. 재료의 상태를 검수하고 관리한다. 요리기기를 조작·점검하고 이상 유무를 확인한다. 식단과 주문량에 따라 재료를 선택하여 다듬고 세척한다. 요리기구(솥, 들통, 국자, 화덕, 냄비, 용기, 온도계, 스푼, 체, 주걱, 도마, 칼, 채반, 구절판, 프라잉 팬, 숯, 가스기구, 석쇠 등)를 사용하여 각종 중식요리(소스·육수, 냉채, 튀김·볶음·구이 요리, 스프 및 탕 요리, 찜 및 조림 요리, 딤섬 및 만두 요리, 면 요리, 밥·죽 요리, 절임 및 부식 등)를 조리한다. 조리가 완료되면 조리법, 재료의 특성에 따라 적당한 그릇을 선택하여 담아낸다. 조리된 음식의 맛, 영양상태 등을 파악하고 점검 및 개선한다.",
+            "imageUrl": "https://dimg.donga.com/wps/NEWS/IMAGE/2015/04/14/70690215.1.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=4412&jobSeq=1&txtKeyword=%EC%A4%91%EC%8B%9D%EC%A1%B0%EB%A6%AC&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "7",
+            "jobName": "부동산컨설턴트",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/Zl-pmerf7k8",
+            "jobSummary": "토지나 건물의 최적의 활용방안을 분석하기 위하여 각종 자료를 수집·분석한다. 부동산의 보유, 매매, 개발의 타당성을 검토한다. 개발 시 최적시설·최적규모를 판정하여 투자수익성을 분석한다. 관련 지역 부동산의 시세나 임대료 등의 가격을 조사한다. 시설물의 설치에 따른 각종 자료를 수집하여 지역의 상권분석을 한다. 부동산세무나 관련 법규, 인허가 등에 관하여 상담자에게 자문한다. 각종 자료를 조사·분석하여 부동산의 분양전략이나, 새로운 형태의 부동산 상품을 개발한다. 해외의 각종 자료를 수집하여 해외부동산의 실태를 조사하기도 한다.",
+            "imageUrl": "https://m.koreaart.ac.kr/images/faculty/entertain/show_1.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2745&jobSeq=4&txtKeyword=%EB%B6%80%EB%8F%99%EC%82%B0%EC%BB%A8%EC%84%A4&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "7",
+            "jobName": "특수차운전원",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/swVnzj4adhU",
+            "jobSummary": "운송지역을 확인하고 엔진오일, 냉각수, 타이어의 공기압력 등을 점검한다. 특정화물의 안전한 수송을 위하여 각종 안전장치의 이상 유무를 확인한다. 목적지에 도착하여 화물의 이상 유무를 확인하고 서류를 정리하여 관련 부서에 인계한다. 가스나 유류를 운반하기 위하여 탱크의 밀폐상태 및 압력을 점검하기도 한다.",
+            "imageUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrKcUQ%2FbtqX0pae4Z4%2F3qgk7nNoVDsGvbie4pfuTk%2Fimg.png",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=8733&jobSeq=6&txtKeyword=%ED%8A%B9%EC%88%98%EC%B0%A8&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "8",
+            "jobName": "굴삭기운전원",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/IdIev1jGWnI",
+            "jobSummary": "작업할 내용을 숙지하고 굴삭작업을 원활하게 수행하기 위해 굴삭기의 연료 및 냉각수, 오일, 작동상태 등을 확인한다. 작업할 장소의 지형 및 작업조건을 파악하여 작업 방법을 결정한다. 굴삭기를 수평으로 유지하고, 토사, 골재 및 각목 등의 굴삭재를 파서 하역지역 또는 덤프트럭적재함에 하역하기 위해 암(Arm), 붐 및 버킷을 조작한다. 덤프트럭운전원과 신호를 주고받으며 굴삭기를 조종한다. 굴삭기 버킷을 조작하여 지면을 평탄하게 고른다. 파쇄작업을 위해 포장도로나 콘크리트를 버킷 대신 유압브레이커를 부착하여 조종한다. 작업이 끝나면 장비를 점검한다.",
+            "imageUrl": "https://modo-phinf.pstatic.net/20190528_169/1559018805547F4hmq_JPEG/1559011492708159_KakaoTalk_20170929_145450895.jpeg?type=a1100",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=8750&jobSeq=3&txtKeyword=%EA%B5%B4%EC%82%AD%EA%B8%B0&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "9",
+            "jobName": "항공관제사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/dJkv_g5aPB8",
+            "jobSummary": "항공교통관제사는 항공기의 안전한 이착륙을 돕기 위하여 비행기조종사에게 기상, 풍속 등의 정보를 제공하고 항공교통을 지휘한다. 관제탑에서 항공기의 이륙 및 착륙신고서를 확인하고 활주로 및 공항주변의 기상상태를 점검한다. 이륙 및 착륙하고자 하는 항공기조종사와 항공기의 목적지, 항공기 상태, 연료의 잔유량 등에 대해 교신한다. 해당 항공기의 이·착륙 활주로, 예정시간, 순서 등을 배정하여 유도하고 이·착륙을 허가한다. 접근관제소에서 운항중인 항공기의 위치와 고도 등을 확인하고 항로의 상태를 파악하여 고도의 상승 및 강하수준을 지시한다. 비상상황 발생 시 관련기관에 연락을 취하고 비상착륙방법 및 비상활주로에 대해 안내한다.",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Air_traffic_controller_Skyguide_at_Airport_Zurich.jpg/440px-Air_traffic_controller_Skyguide_at_Airport_Zurich.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2383&jobSeq=3&txtKeyword=%ED%95%AD%EA%B3%B5%EA%B4%80%EC%A0%9C&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "9",
+            "jobName": "농업용기계정비원",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/9fmzdZLN2VI",
+            "jobSummary": "기중기, 해머, 수동용 공구를 사용하여 고장 및 파손된 농업용 기계를 분해·점검한다. 각종 벨트의 헐거움이나 냉각장치, 윤활장치, 시동장치 등을 테스터기 또는 육안으로 점검하여 엔진의 상태를 점검한다. 각 부품의 마모정도와 손상을 육안 또는 청각으로 조사하여 이상이 있는 부품을 교체하거나 정비한다. 정비 후 시운전을 하여 이상 유무를 확인하고, 부품의 조립상태를 점검한다. 농기구를 점검 및 수리하기도 하고 각종 펌프의 설치 및 유지 보수업무를 하기도 한다.",
+            "imageUrl": "http://www.cbmakers.co.kr/news/photo/202201/14410_16851_5434.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=7539&jobSeq=1&txtKeyword=%EB%86%8D%EC%97%85%EC%9A%A9%EA%B8%B0%EA%B3%84&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "9",
+            "jobName": "한지제조원",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/0mDh6kSfGUg",
+            "jobSummary": "지통에 물과 원료를 넣고 막대로 잘 저어 고르게 분산시킨 후 섬유끼리의 분산과 종이 뜰 때 발에서 물 빠짐을 조절할 수 있도록 닥풀즙(황초기뿌리의 액)을 넣고 다시 잘 저어 준다. 지통에 발을 담가 전·후·좌·우로 흔들어 종이를 떠내고, 떠낸 종이 사이에는 베게(왕골, 합성수지 끈 등의 재질로 떠낸 종이 사이사이에 끼워서 한 장씩 종이를 떠내기 쉽게 한 것)를 끼워서 나중에 한 장씩 떠내기 쉽게 한다. 떠낸 종이를 쌓아가다가 일정한 높이가 되면 널빤지 사이에 넣은 후, 무거운 돌이나 지렛대를 사용해 물을 빼준다. 종이의 사용 목적에 따라 약간 덜 마른 종이를 포개거나 풀칠을 하여 붙여 디딜방아나 방망이로 두들겨서 종이가 치밀하고 매끄러우며 윤기가 나도록 한다. 자연소재인 식물의 뿌리, 줄기, 잎 등에서 얻는 천연염료를 물에 끊여 종이를 각종 색상으로 염색한다.",
+            "imageUrl": "https://minio.nculture.org/amsweb-opt/multimedia_assets/246/24659/21229/c/24659-medium-size.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=7911&jobSeq=48&txtKeyword=%ED%95%9C%EC%A7%80%EC%A0%9C%EC%A1%B0&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "10",
+            "jobName": "동물사육사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/SvXW4OeGdF4",
+            "jobSummary": "동물 사육장의 배설물을 치우고 물이나 소독약을 이용해 청소하여 청결상태를 유지한다. 동물의 습성을 파악하여 동물에 따라 일정한 간격으로 급식 및 급수한다. 동물의 변이나 움직임, 울음소리 등을 관찰하여 건강 상태를 파악한다. 이상이 있을 시 수의사에게 보고하며, 진료를 보조해 수의사를 도와준다. 동물 관람객의 행동을 감시하고, 질문이 있을 경우 동물에 대하여 설명해 준다. 동물시설물을 관리하거나 사파리 내의 동물에 대한 방사, 입사를 관리하기도 한다.",
+            "imageUrl": "https://t1.daumcdn.net/cfile/tistory/9925D3455F2A3C3502",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=6139&jobSeq=6&txtKeyword=%EB%8F%99%EB%AC%BC&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "10",
+            "jobName": "조향사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/UJObnpUhLkc",
+            "jobSummary": "향이 사용될 제품의 특성을 고려하여 콘셉트를 설정한다. 향료를 준비하고 계량용기를 사용하여 중량을 측정하고 향료를 배합한다. 알코올을 첨가하여 향을 부드럽게 한다. 블로터스트립(향을 맡는 종이)을 사용하여 배합된 향료의 향을 맡아보고 추가 향료를 조합한다. 제품의 사용여부를 결정하기 위해 개발된 향으로 품평회를 개최하기도 한다. 향료회사에서 제공받은 여러 가지 향들을 제품에 사용하기 위해 평가하기도 한다. 새로운 향을 개발하거나 식품 등에 향을 첨가하기도 한다.",
+            "imageUrl": "https://cdn.topclass.chosun.com/news/photo/201602/3911_13529_0900.jpg",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2741&jobSeq=10&txtKeyword=%EC%A1%B0%ED%96%A5%EC%82%AC&txtNumber=&pageIndex=1"
+        },
+        {
+            "jobCode": "10",
+            "jobName": "제과제빵사",
+            "jobVideo": "https:\/\/www.youtube.com\/embed\/cHT3amOELo8",
+            "jobSummary": "제조할 제품의 종류에 따라 원료를 선별한 후 제품 표준에 맞게 일정 비율로 계량한다. 원료를 혼합기에 투입한 후 혼합이 용이하도록 교반기를 가동한다. 혼합이 완료되면 반죽을 꺼내 작업대 위에 놓고, 일정한 크기로 절단하거나 손이나 형틀을 사용하여 일정 모양으로 성형한 후, 금속판 위에 정렬한다. 오븐의 뚜껑을 열고 금속판을 넣은 후 오븐의 스위치를 조절하여 가열온도를 조절한다. 일정 온도를 유지하기 위해 수시로 관찰·확인한다. 빵이 구워지면 오븐의 가동을 중지하고 제조된 빵을 꺼내 맛, 향, 색상, 형태 등을 점검한다.",
+            "imageUrl": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMjnwC%2FbtqSa9L1T48%2FQMoA0mxkK7EGk1M8XbNSs1%2Fimg.png",
+            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=7101&jobSeq=4&txtKeyword=%EC%A0%9C%EA%B3%BC%EC%A0%9C%EB%B9%B5&txtNumber=&pageIndex=1"
+        }
     ]
     }
