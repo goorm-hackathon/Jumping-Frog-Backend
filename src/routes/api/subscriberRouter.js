@@ -8,17 +8,27 @@ const subscriberRouter = Router();
 // Client에서 요청으로 유저 정보를 받아옴
 // Subscriber Service로 request 정보 전달
 subscriberRouter.post('/', async (req, res, next) => {
-    const info = req.body;
-    const result = await subscriptionService.subscribe(info);
-    res.status(201).json(result);
+    try {
+        const info = req.body;
+        const result = await subscriptionService.subscribe(info);
+        res.status(201).json(result);
+    } catch {
+        next(error);
+    }
+    
 })
 // 2. 구독 취소
 // Client에서 요청으로 유저 정보를 받아옴
 // Subscriber Service로 request 정보 전달
 subscriberRouter.delete('/cancel', async(req, res, next) => {
-    const email = req.params;
-    const result = await subscriptionService.cancleSubscription(email);
-    res.status(200).json(result);
+    try {
+        const email = req.params;
+        const result = await subscriptionService.cancleSubscription(email);
+        res.status(200).json(result);
+    } catch {
+        next(error);
+    }
+
 })
 
 export { subscriberRouter }
