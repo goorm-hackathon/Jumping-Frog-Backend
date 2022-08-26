@@ -3,14 +3,6 @@
     "data": [
         {
             "jobCode": "1",
-            "jobName": "장기이식코디네이터",
-            "jobVideo": "https:\/\/www.youtube.com\/embed\/oxoYpSc1QTQ",
-            "jobSummary": "기증자 발생을 점검하고, 뇌사자가 발생하면 국립장기이식관리센터(KONOS)로 연락을 취한다. 뇌사자 이송 및 관리를 하며, 기증자 가족에게 장기기증의 동의를 받는다. 장기 기증자, 수혜자 및 가족에게 이식에 관한 정보를 제공한다. 장기수혜자 및 가족들에게 장기기증 절차를 설명하고, 수술일정과 부가적인 행정절차를 관리한다. 수술에 참여하며, 장기분배기능을 담당한다. 적출내용을 관할 지방검찰청에 보고하고, 뇌사자 관리와 관련된 각종 기록을 관리한다. 적출 장기를 이송 및 보존한다. 장기수혜자에게 이식에 관한 정보를 제공하고, 이식수술 후 재활을 돕는다. 잠재뇌사자 발굴을 위한 중환자실 방문과 가족에 대한 기증권유 상담을 한다. 장기기증 관련 자료를 수집하고, 장기기증 활성화를 위한 홍보 및 교육을 한다. 생전 및 사후 장기기증에 관하여 상담하며, 등록을 받고 등록자를 관리한다.",
-            "imageUrl": "https://m.news.nate.com/view/photo?url=//thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ts/2021/08/12/14620947_677832_1937_org.jpg",
-            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=jobDicSrchByJobCl&jobCode=2430&jobSeq=20"
-        },
-        {
-            "jobCode": "1",
             "jobName": "브랜드매니저",
             "jobVideo": "https:\/\/www.youtube.com\/embed\/oipsuWpBBQ",
             "jobSummary": "브랜드의 프로모션 전략, 진출 국가 전략 및 고객 전략 등 대응 전략을 수립한다. 브랜드의 매출액과 영업이익 관점에서 실직 관리 업무를 진행한다. 브랜드의 단기, 중기, 장기 방향성에 따라 마케팅 전략을 수립한다. 트렌드에 따라 다양한 미디어 매체를 통해 브랜드 광고 홍보 전략을 실행한다. 상품 육성 및 상품 라인 구성 운영 등 시장 상황에 따라 상품을 다각도로 분석하고 개선한다. 소비자의 구매 패턴을 분석하여 브랜드 커뮤니케이션 방향성을 설계한다.",
@@ -24,22 +16,6 @@
             "jobSummary": "블록체인 기반 기술을 연구하고 관련 애플리케이션을 개발한다. 블록체인 플랫폼을 연구·개발한다. API 및 인터페이스를 개발한다. 네트워크 내의 노드들의 상호검증을 통해 블록생성을 이끌어내는 프로세스와 알고리즘을 나타내는 컨센서스(합의) 엔진을 개발하고 연구한다. 블록체인 기반의 기술지원 및 프로젝트를 수행한다. 블록체인 기반의 다양한 정보시스템을 개발한다.",
             "imageUrl": "https://cdn.nvp.co.kr/news/photo/201712/122737_56950_3533.jpg",
             "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=jobDicSrchByJobCl&jobCode=2223&jobSeq=14"
-        },
-        {
-            "jobCode": "2",
-            "jobName": "천문학자",
-            "jobVideo": "https:\/\/www.youtube.com\/embed\/q8WvTiYPg90",
-            "jobSummary": "광학망원경, 전파망원경 등의 기구를 사용하여 천체현상을 관찰하거나 인공위성 등을 통해 수집된 관측자료를 분석하여 이론을 개발한다. 광학망원경, 전파망원경 등 천문학기기의 개발과 한국우주전파관측망 등 시스템을 구축한다. 달력 발간을 위한 월력요항을 발표한다. 일월출몰 시각, 각 행성의 위치 출목시각, 음양력 대조표 등을 수록한 역사를 발간한다. 우리나라 고대 천문유물의 복원, 고대 천문 관련 기록에 관한 연구를 수행한다. GPS를 이용한 지구자전, 지각운동, 대류층 및 이온층 등에 관한 연구를 수행한다. 기타 연구원(일반)들이 수행하는 일반적인 활동을 한다.",
-            "imageUrl": "http://dhcdn.design.co.kr/cms/img/2015/02/M.1424073973.6786.4.jpg",
-            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2112&jobSeq=36&txtKeyword=%EC%B2%9C%EB%AC%B8&txtNumber=&pageIndex=1"
-        },
-        {
-            "jobCode": "2",
-            "jobName": "UI/UX 디자이너",
-            "jobVideo": "https:\/\/www.youtube.com\/embed\/B2q6p1d3npI",
-            "jobSummary": "편리한 사용자 인터페이스를 제공하기 위하여 사용자의 요구사항을 분석한다. 하드웨어 특성을 고려한 UI/UX의 기능을 분석하여 UI/UX 디자인을 검토한다. 검토한 UI/UX의 기능을 바탕으로 UI/UX 디자인을 기획한다. 서비스 시나리오와 제품사양을 기준으로 사용자에게 최대한의 사용자 경험을 제공하기 위해 사용 환경과 사용자 요구사항의 UI/UX 기능을 분석한다. 인간공학적인 사용성과 편리성을 고려하여 UI/UX를 설계한다. 체계적인 방법으로 제품과 서비스를 이용하는 사용자를 정의하고 목표 사용자, 사용자의 니즈(Needs)와 목표, 이용행태에 관한 계획을 수립하여 자료를 수집한다. 시장의 사용자 니즈를 반영하여 UI/UX를 개발하기 위해 UI/UX에 관련된 트렌드, 경쟁환경과 내부역량을 분석한다. UI/UX 분석결과를 바탕으로 UI/UX 콘셉트를 도출하고 기능과 콘텐츠를 기획한다.",
-            "imageUrl": "https://twitter.com/ppsskr/status/1346683078542938112",
-            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2715&jobSeq=8&txtKeyword=UX&txtNumber=&pageIndex=1"
         },
         {
             "jobCode": "2",
@@ -88,14 +64,6 @@
             "jobSummary": "보호자 또는 아동과 상담하여 아동의 개인발달사항, 가족관계, 학습활동 등을 조사하고 기록한다. 각종 검사를 실시하여 심리적 문제의 유형 및 정도를 판별하고 진단한다. 의료진단서, 검사결과지, 상담기록지 등의 자료를 토대로 아동의 상태를 진단한다. 놀이기구를 설치한 놀이방에서 아동이 선택한 기구로 놀이를 진행한다. 사회관계 형성·유지에 필요한 능력을 진단하거나 이를 증진시키기 위해 집단적 치료활동을 수행한다. 놀이치료가 끝난 후에는 아동 및 보호자를 상대로 지도활동을 하고, 결과보고서를 작성한다. 아동의 상태변화를 확인하고, 추후 놀이치료의 방향을 계획한다. 교육기관, 의료기관, 아동상담센터 등의 자문역할을 수행한다. 놀이기구에 관한 정보를 수집하고, 직접 구매하기도 한다.",
             "imageUrl": "http://cdn.edujin.co.kr/news/photo/202207/39386_79933_5632.jpg",
             "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2459&jobSeq=1&txtKeyword=%EB%86%80%EC%9D%B4%EC%B9%98%EB%A3%8C&txtNumber=&pageIndex=1"
-        },
-        {
-            "jobCode": "4",
-            "jobName": "의무기록사",
-            "jobVideo": "https:\/\/www.youtube.com\/embed\/ry8IFrZBvfQ",
-            "jobSummary": "환자들의 기본정보 및 의무기록 자료를 수집한다. 의무기록의 충실성과 완결성을 분석한 후 미비기록 체크리스트를 작성하여 관리한다. 질병분류번호, 사인분류번호, 의료행위분류번호, DRG분류번호 등을 부여한다. 초진기록지를 생성한다. 새로운 의무기록서식을 개발한다. 의무기록지를 정리하여 보관한다. 진료기록지를 전사한다. 수집된 정보를 컴퓨터 데이터베이스에 정리한다. 의학연구정보, 경영지원정보, 병원평가정보 등을 생성, 분석, 제공한다. 의료 정보자료를 분석하여 통계자료를 만든다. 의료기록 대출 등 의무기록 이용에 대해 지원한다. 의무기록 정보보호를 위한 의료진 서명관리 접근권한관리, 의무기록 복사·열람·정보요구에 대한 권한관리를 한다. 전자의무기록 개발, 의료자료보관체계 등 의료정보체계 구축에 참여한다.",
-            "imageUrl": "https://twitter.com/mySMC/status/1068317516991066113",
-            "jobLink": "https://www.work.go.kr/consltJobCarpa/srch/jobDic/jobDicDtlInfo.do?pageType=keyWord&jobCode=2464&jobSeq=2&txtKeyword=%EC%9D%98%EB%AC%B4%EA%B8%B0%EB%A1%9D&txtNumber=&pageIndex=1"
         },
         {
             "jobCode": "5",

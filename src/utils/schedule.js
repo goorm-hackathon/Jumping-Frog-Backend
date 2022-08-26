@@ -2,9 +2,9 @@ import schedule from 'node-schedule';
 import { mailService } from './email.js';
 
 const rule = new schedule.RecurrenceRule();
-// rule.dayOfWeek = 4;
-// rule.hour = 14;
-// rule.minute = 2;
+rule.dayOfWeek = 1;
+rule.hour = 8;
+rule.minute = 0;
 rule.second = 0;
 
 export const job = schedule.scheduleJob(rule, async function sendMails (){
