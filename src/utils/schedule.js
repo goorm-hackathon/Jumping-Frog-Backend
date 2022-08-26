@@ -3,7 +3,7 @@ import { mailService } from './email.js';
 
 const rule = new schedule.RecurrenceRule();
 rule.dayOfWeek = 1;
-rule.hour = 8;
+rule.hour = 11;
 rule.minute = 0;
 rule.second = 0;
 
