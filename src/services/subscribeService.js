@@ -11,6 +11,7 @@ class SubscriptionService {
         if (result) {
             const error = new Error('이미 구독중인 이메일입니다');
             error.name = 'NotAcceptable';
+            error.message = '이미 구독중인 이메일입니다';
             throw error;
         }
         // b. 구독 중이 아닌 경우
@@ -25,6 +26,7 @@ class SubscriptionService {
         if (!isEmailExist) {
             const error = new Error('구독 중인 계정이 아닙니다');
             error.name = 'NotAcceptable';
+            error.message = '구독 중인 계정이 아닙니다';
             throw error;
         }
         // b. 구독 중이 아닌 경우

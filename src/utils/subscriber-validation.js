@@ -7,12 +7,14 @@ class SubValidation {
         if(name.length < 2) {
             const error = new Error('이름은 2글자 이상이어야 합니다.');
             error.name = 'BadRequest';
+            error.message = '이름은 2글자 이상이어야 합니다.';
             throw error;
         }
 
         if(name.length > 10) {
             const error = new Error('이름은 10글자 이하여야 합니다.');
             error.name = 'BadRequest';
+            error.message = '이름은 10글자 이하여야 합니다.';
             throw error;
         }
 
@@ -20,6 +22,7 @@ class SubValidation {
         if(!name.match(nameFormat)) {
             const error = new Error('이름은 한글이어야 합니다');
             error.name = 'BadRequest';
+            error.message = '이름은 한글이어야 합니다';
             throw error;
         }
 
@@ -27,6 +30,7 @@ class SubValidation {
         if(!email.match(mailFormat)) {
             const error = new Error('유효한 이메일 형식이 아닙니다.');
             error.name = 'BadRequest';
+            error.message = '유효한 이메일 형식이 아닙니다.';
             throw error;
         }
     }
