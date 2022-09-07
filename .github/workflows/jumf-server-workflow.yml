@@ -19,18 +19,21 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    env:
-      MONGODB_URL: ${{ secrets.MONGODB_URL }}
-      NODEMAILER_ACCOUNT: ${{ secrets.NODEMAILER_ACCOUNT }}
-      NODEMAILER_PASSWORD: ${{ secrets.NODEMAILER_PASSWORD }}
-
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Check Out Juming-Frog-Server Repository
         uses: actions/checkout@v3
-        
+
+      - name: Generate Environment Variables File for Production
+        run: |
+          echo "Add environment variables for Production" >> .env.production
+        env:
+          MONGODB_URL: ${{ secrets.MONGODB_URL }}
+          NODEMAILER_ACCOUNT: ${{ secrets.NODEMAILER_ACCOUNT }}
+          NODEMAILER_PASSWORD: ${{ secrets.NODEMAILER_PASSWORD }}
+
       - name: Cache Docker layers
         uses: actions/cache@v2
         with:
