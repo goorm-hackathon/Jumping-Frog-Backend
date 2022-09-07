@@ -1,6 +1,4 @@
 import { jobModel } from '../db/models/job-model.js';
-import * as data from '../db/data.json' assert {type: "json"};
-import { job } from '../utils/schedule.js';
 
 class JobService {
 

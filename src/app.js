@@ -11,14 +11,8 @@ const app = express();
 // jobService.insertJobs();
 job.job();
 const corsOptions = {
-    origin : 
-	[
-    'http://localhost:3000',
-    'https://jumping-frog-client-mrjrm.run.goorm.io:3000',
-    'https://jumping-frog-client-mrjrm.run.goorm.io',
-    '*',
-  	],
-	credentials:true,
+    origin : '*',
+    credentials:true,
 	optionSuccessStatus:200
 }
 
