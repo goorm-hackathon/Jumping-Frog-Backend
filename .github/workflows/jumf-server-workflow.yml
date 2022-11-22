@@ -7,7 +7,7 @@ on:
 
 env:
   S3_BUCKET_NAME: jumping-frog-bucket
-  RESOURCE_PATH: ../package.json
+  RESOURCE_PATH: ./.env
   CODE_DEPLOY_APPLICATION_NAME: jumping-frog-server
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: jumping-frog-server
 
